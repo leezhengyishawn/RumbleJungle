@@ -28,5 +28,8 @@ Additionally I liasoned with AppGuru's cloud engineer to host the server builds 
 
 ### 1.0 Release and Live Ops (Jun 2022 - Sep 2022)
 
+Additionally, the game was featured several times on Apple's Game of the Day which helped boost visability. 
+![image](https://github.com/leezhengyishawn/RumbleJungle/assets/100258469/d817a16a-c7e7-4c82-af3c-0c855a15ff7a)
+
 
 Unfortunately, I was unable to continue the project as I had started my role at Tencent and the workload became too much to juggle both Rumble Jungle! and my job. I left the game with the pubilishers and updates were put on hold indefinitely.
